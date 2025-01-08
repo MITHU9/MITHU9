@@ -72,8 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mithu9/mithu9/output" />
-
 ###
 
 <div align="left">
