@@ -13,7 +13,7 @@
 ###
 
 <h3 align="left">I'm a passionate MERN stack developer from Bangladesh.<br><br></h3>
-<p>- 📫 How to reach me **kmmithu2015@gmail.com**</p>
+<p>- 📫 How to reach me <a href="kmmithu2015@gmail.com">kmmithu2015@gmail.com</a></p>
 
 ###
 
