@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">I'm a passionate MERN stack developer from Bangladesh.<br><br>- 📫 How to reach me **kmmithu2015@gmail.com**</p>
+<h3 align="left">I'm a passionate MERN stack developer from Bangladesh.<br><br></h3>
+<p>- 📫 How to reach me **kmmithu2015@gmail.com**</p>
 
 ###
 
