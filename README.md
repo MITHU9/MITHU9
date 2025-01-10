@@ -42,11 +42,11 @@ Frontend: React.js, Redux, Tailwind CSS, Bootstrap<br/>
 Backend: Node.js, Express.js<br/>
 Database: MongoDB, Mongoose<br/>
 Tools & Platforms: Git, GitHub, VS Code, Postman<br/>
-Other Skills: REST APIs, Authentication, Deployment (Heroku, Netlify, Vercel) <br/></p>
+Other Skills: REST APIs, Authentication, Deployment (Netlify, Vercel) <br/></p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...2020<br>📚 I'm currently learning ... NextJs with TypeScript and SQL<br>🎯 Goals: ...become a senior developer within 2025<br>🎲 Fun fact: ...I am funny</p>
+<p align="left">✨ Creating bugs since ...2020<br>📚 I'm currently learning ... NextJs with TypeScript and SQL<br>🎯 Goals: ...become a senior developer within 2025<br>🎲 Fun fact: ...I am funny😹😎</p>
 
 ###
 
