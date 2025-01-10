@@ -2,13 +2,10 @@
   <img height="200" src="https://raw.githubusercontent.com/MITHU9/MITHU9/refs/heads/main/Shahariar%20Mithu.png"  />
 </div>
 
-###
-
-<h1 align="left">Hey 👋 there??</h1>
-
-###
-
-<h2 align="left">My name is Shahariar Mithu</h2>
+<!-- Welcome Text -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahariar+Mithu!;" />
+</h1>
 
 ###
 
@@ -90,5 +87,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mithu9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mithu9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<br/>
+<!-- Thanks Text -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💌;+Thanks+For+Watching!;" />
+</h1>
 
 ###
