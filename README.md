@@ -32,7 +32,16 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👋About Me</h2>
+<p>
+<p>I'm a passionate MERN Stack Developer with a strong interest in building scalable, user-centric web applications. My expertise lies in developing end-to-end solutions using MongoDB, Express.js, React, and Node.js, enabling me to craft seamless full-stack applications.</p>
+
+🔧 Technologies I Work With:<br/>
+Frontend: React.js, Redux, Tailwind CSS, Bootstrap<br/>
+Backend: Node.js, Express.js<br/>
+Database: MongoDB, Mongoose<br/>
+Tools & Platforms: Git, GitHub, VS Code, Postman<br/>
+Other Skills: REST APIs, Authentication, Deployment (Heroku, Netlify, Vercel) <br/></p>
 
 ###
 
