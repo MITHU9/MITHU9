@@ -5,11 +5,12 @@
 <!-- Welcome Text -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahariar+Mithu!;" />
+  <h3 align="center">I'm a passionate MERN stack developer from Bangladesh.<br><br></h3>
 </h1>
 
 ###
 
-<h3 align="left">I'm a passionate MERN stack developer from Bangladesh.<br><br></h3>
+
 <p>- 📫 How to reach me <a href="kmmithu2015@gmail.com">kmmithu2015@gmail.com</a></p>
 
 ###
