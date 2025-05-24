@@ -40,7 +40,7 @@
 🔧 Technologies I Work With:<br/>
 Frontend: React.js, Redux, Tailwind CSS, Bootstrap<br/>
 Backend: Node.js, Express.js, NestJs,Django(Basic)<br/>
-Database: MongoDB, Mongoose<br/>
+Database: MongoDB, Postgress, Mongoose<br/>
 Tools & Platforms: Git, GitHub, VS Code, Postman<br/>
 Other Skills: REST APIs, Authentication, Deployment (Netlify, Vercel, Render, Cpanel) <br/></p>
 
