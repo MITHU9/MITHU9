@@ -42,7 +42,7 @@ Frontend: React.js, Redux, Tailwind CSS, Bootstrap<br/>
 Backend: Node.js, Express.js, NestJs,Django(Basic)<br/>
 Database: MongoDB, Mongoose<br/>
 Tools & Platforms: Git, GitHub, VS Code, Postman<br/>
-Other Skills: REST APIs, Authentication, Deployment (Netlify, Vercel) <br/></p>
+Other Skills: REST APIs, Authentication, Deployment (Netlify, Vercel, Render, Cpanel) <br/></p>
 
 ###
 
