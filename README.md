@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MITHU9/MITHU9/blob/main/Black%20and%20Yellow%20Dark%20Modern%20Company%20Business%20Facebook%20Cover%20(1).png"  />
+  <img src="https://github.com/MITHU9/MITHU9/blob/main/Shahariar%20Mithu.png"  />
 </div>
 
 <!-- Welcome Text -->
